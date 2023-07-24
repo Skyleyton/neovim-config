@@ -1,2 +1,1 @@
-require("config_lua.remap")
-print("Hi from Lua")
+require("config_lua/init")
