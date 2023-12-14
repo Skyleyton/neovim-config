@@ -28,6 +28,7 @@ return require('packer').startup(function(use)
   use('tpope/vim-fugitive')
   use('preservim/nerdtree')
   use('ryanoasis/vim-devicons')
+  use('morhetz/gruvbox')
 
   use {
   	'VonHeikemen/lsp-zero.nvim',
